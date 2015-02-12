@@ -1,0 +1,7 @@
+This project is a packaging effort for https://github.com/kanaka/noVNC.
+
+For licence, please see https://github.com/kanaka/noVNC/blob/master/LICENSE.txt
+which applies to the content of vendor/assets/.
+
+The bits that are added on top of the above are provided under the Ruby licence:
+https://www.ruby-lang.org/en/about/license.txt.
